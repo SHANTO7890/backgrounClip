@@ -1,0 +1,351 @@
+.list-image{
+    width: 100%;
+    height: 520px;
+    border: 2px solid red;
+    margin-bottom: 20px
+
+}
+.list-1{
+    width: 100%;
+    height: 120px;
+    border: 2px solid green;
+    margin-top: 20px;
+}
+ul{
+    display: inline-block;
+    padding-left: 150px;
+    
+}
+.black-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/758-7586854_arrow-png-transparent-icon-right-arrow-in-circle.png);
+    font-size: 25px
+}
+.gray-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.tikmark{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.block{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+
+.list-2{
+    width: 100%;
+    height: 120px;
+    border: 2px solid green;
+    margin-top: 20px;
+}
+.blue-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.red-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.cross{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.telegram{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.list-3{
+    width: 100%;
+    height: 120px;
+    border: 2px solid blue;
+    margin-top: 20px;
+}
+.green-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.tomato-arrow{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.star{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.drive{
+    list-style-type: decimal;
+    list-style-image: url(../images/500_F_177845251_0JEwMS9Khm4t6T0rl2J0rseCjaf1uM7l.png);
+    font-size: 25px
+}
+.background-repat{
+    width: 1380px;
+    height: 700px;
+    border: 2px solid gray;
+}
+.repat-x{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: repeat-x;
+    float: left
+    
+    
+}
+.repat-y{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: repeat-y;
+    float: left
+    
+}
+.repat{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: repeat;
+    float: left
+    
+    
+}
+.space{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: space;
+    float: left;
+    
+    
+}
+.round{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: round;
+    float: left
+    
+    
+}
+.no-repat{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: no-repeat;
+    float: left
+    
+    
+}
+.space-repat{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: space repeat;
+    
+    float: left
+    
+}
+.round-space{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+    margin: 20px;
+    background-image: url(../images/casual-man-smart-phone-talk-chat-box-communication-F0RH0A.jpg);
+    background-repeat: round space;
+    float: left
+    
+    
+}
+
+
+
+
+
+
+
+
+.background-size{
+    width: 100%;
+    height: 550px;
+    border: 2px dashed gray;
+    margin-top: 20px;
+    
+   
+}
+.auto{
+    width: 95%;
+    height: 130px;
+    border: 15px solid #FF7F7F;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-image: url(../images/Screenshot_36.png);
+    background-repeat: no-repeat;
+    background-size: auto
+    
+    
+}
+.contain{
+    width: 95%;
+    height: 130px;
+    border: 15px solid #FF7F7F;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-image: url(../images/Screenshot_36.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+}
+.cover{
+    width: 95%;
+    height: 130px;
+    border: 15px solid #FF7F7F;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-image: url(../images/Screenshot_36.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: #FF7F7F #FF7F7F #BC397F #FF7F7F
+    
+    
+}
+.background-origin{
+    width: 100%;
+    height: 300px;
+    border: 2px solid blue;
+    margin-top: 20px;
+    
+}
+.border{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    margin: 20px 20px;
+    float: left
+    
+}
+.padding{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    margin: 20px 20px;
+    float: left;
+    
+}
+.content{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    margin: 20px 20px;
+    float: left;
+    
+    
+}
+.background-clip{
+    width: 100%;
+    height: 300px;
+    border: 2px solid blue;
+    margin-top: 20px;
+    
+}
+.border2{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    margin: 20px 20px;
+    float: left
+    
+}
+.padding2{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    margin: 20px 20px;
+    float: left;
+    
+}
+.content2{
+    width: 200px;
+    height: 200px;
+    border: 20px dashed blue;
+    outline: 15px solid #17C800;
+    background-color: red;
+    background-image: url(../images/Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    margin: 20px 20px;
+    float: left;
+    
+    
+}
+.background-clip-text{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    
+    
+}
+h1{
+    font-size: 40px;
+    font-family: impact;
+    background-image: url(../images/photo-1519501025264-65ba15a82390.jpg);
+    -webkit-
+    background-clip: text;
+    color: transparent;
+
+    
+}
+
+
+
+
